@@ -25,14 +25,14 @@
 <div align=center><h1>🍒Contacts🍒</h1></div>
 <div align=center>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msk102948@gmail.com)](mailto:siresence@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msk102948@gmail.com)](mailto:msk102948@gmail.com)
 
  
 </div>
 
 <div align=center> 
   
-![Juri's github stats](https://github-readme-stats.vercel.app/api?username=msk102948&show_icons=true)
+[![Juri's github stats](https://github-readme-stats.vercel.app/api?username=msk102948&show_icons=true)](https://github.com/msk102948)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&fontSize=45&text=Thank%20you!&color=gradient&height=200&section=footer)
