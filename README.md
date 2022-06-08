@@ -25,16 +25,15 @@
 <div align=center><h1>🍒Contacts🍒</h1></div>
 <div align=center>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:siresence@gmail.com)](mailto:siresence@gmail.com)
-  
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@gengar)](https://velog.io/@gengar)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msk102948@gmail.com)](mailto:siresence@gmail.com)
+
  
 </div>
 
 <div align=center> 
   
-![Juri's github stats](https://github-readme-stats.vercel.app/api?username=ksanacloud&show_icons=true)
-[![Juri's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ksanacloud&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ksanacloud)
+![Juri's github stats](https://github-readme-stats.vercel.app/api?username=msk102948&show_icons=true)
+[![Juri's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=msk102948&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/msk102948)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&fontSize=45&text=Thank%20you!&color=gradient&height=200&section=footer)
 
